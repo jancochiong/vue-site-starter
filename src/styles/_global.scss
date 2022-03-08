@@ -1,0 +1,25 @@
+html, body{
+    overflow-x: hidden;
+    width: 100%;
+}
+.sectionPlayerDesign{
+    position: absolute;
+    z-index: 1;
+}
+.glitterBg{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    z-index: 1;
+    pointer-events: none;
+}
+.z1{
+    z-index: 1;
+}
+.z2{
+    z-index: 2;
+}
+.z3{
+    z-index: 3;
+}
